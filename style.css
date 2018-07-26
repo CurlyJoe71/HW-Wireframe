@@ -1,0 +1,17 @@
+html {
+    background-color: grey;
+}
+div {
+    color: grey;
+    background-color: white;
+    height: 50px;
+    padding: 10px;
+    text-align: center;
+    margin: 10px;
+};
+
+div.main {
+    padding-left: 600px;
+    background-color: grey;
+}
+
