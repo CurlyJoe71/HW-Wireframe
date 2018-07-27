@@ -6,7 +6,7 @@ body {
 }
 
 div.header {
-    width: 960px;
+    width: 925px;
     /* border: 10px solid #777; */
     background-color: #ebebeb;
     padding: 5px;
@@ -17,7 +17,7 @@ div.header {
 }
 
 .nav {
-    width: 960px;
+    width: 925px;
     /* border: 10px solid #777; */
     background-color: #ebebeb;
     padding: 5px;
@@ -30,14 +30,14 @@ div.header {
 
 
 .section {
-    width: 675px;
+    width: 495px;
     height: 250px;
     /* border: 10px solid #777; */
     background-color: #ebebeb;
     padding: 5px;
     margin-left:25px;
     margin-bottom: 10px;
-    margin-right: 10px;
+    margin-right: 5px;
     text-align: center;
     color: #777;
     float: left;
@@ -78,7 +78,7 @@ div.header {
 
 
 .aside {
-    width: 230px;
+    width: 410px;
     height: 250px;
     /* border: 10px solid whitesmoke; */
     background-color: #ebebeb;
@@ -92,7 +92,7 @@ div.header {
 }
 
 .footer {
-    width: 960px;
+    width: 925px;
     height: 20x;
     /* border: 10px solid white; */
     background-color: #ebebeb;
