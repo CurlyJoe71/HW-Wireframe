@@ -1,5 +1,6 @@
 html {
     background-color: grey;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 20px;
 }
 
@@ -58,6 +59,8 @@ div.header {
     margin-right: 5%;
     margin-left: 5%;
     font-weight: 900;
+    padding-top: 5px;
+    line-height: 50px;
 }
 
 .paragraph {
@@ -68,6 +71,7 @@ div.header {
     margin-top: 5%;
     margin-right: 5%;
     margin-left: 5%;
+    line-height: 50px;
 }
 
 
