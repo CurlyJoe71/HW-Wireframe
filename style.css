@@ -1,13 +1,14 @@
-html {
-    background-color: grey;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-size: 20px;
+body {
+    background-color: #777;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    width: 960px;
 }
 
 div.header {
-    width: 800px;
-    border: 10px solid whitesmoke;
-    background-color: whitesmoke;
+    width: 960px;
+    /* border: 10px solid #777; */
+    background-color: #ebebeb;
     padding: 5px;
     margin-left:25px;
     margin-bottom: 10px;
@@ -16,46 +17,47 @@ div.header {
 }
 
 .nav {
-    width: 800px;
-    border: 10px solid whitesmoke;
-    background-color: whitesmoke;
+    width: 960px;
+    /* border: 10px solid #777; */
+    background-color: #ebebeb;
     padding: 5px;
     margin-left:25px;
     margin-right: 15%;
     margin-bottom: 10px;
     text-align: center;
-    color: grey;
+    color: #777;
 }
 
 
 .section {
-    width: 450px;
+    width: 675px;
     height: 250px;
-    border: 10px solid whitesmoke;
-    background-color: whitesmoke;
+    /* border: 10px solid #777; */
+    background-color: #ebebeb;
     padding: 5px;
     margin-left:25px;
     margin-bottom: 10px;
+    margin-right: 10px;
     text-align: center;
-    color: grey;
+    color: #777;
     float: left;
-    display: block;
+    /* display: block; */
 }
 
 .article {
     height: 85%;
-    background-color: grey;
-    color: whitesmoke;
+    background-color: #777;
+    color: #ebebeb;
     /* margin-top: 5%; */
-    padding-top: 20px;
+    padding-top: 10px;
 }
 
 .headings {
     height: 30%;
     /* width: 100%; */
-    background-color: whitesmoke;
-    color: grey;
-    margin-top: 5%;
+    background-color: #ebebeb;
+    color: #777;
+    /* margin-top: 5%; */
     margin-right: 5%;
     margin-left: 5%;
     font-weight: 900;
@@ -66,8 +68,8 @@ div.header {
 .paragraph {
     height: 30%;
     /* width: 100%; */
-    background-color: whitesmoke;
-    color: grey;
+    background-color: #ebebeb;
+    color: #777;
     margin-top: 5%;
     margin-right: 5%;
     margin-left: 5%;
@@ -76,30 +78,30 @@ div.header {
 
 
 .aside {
-    width: 310px;
+    width: 230px;
     height: 250px;
-    border: 10px solid whitesmoke;
-    background-color: whitesmoke;
+    /* border: 10px solid whitesmoke; */
+    background-color: #ebebeb;
     padding: 5px;
-    margin-left: 10px;
+    /* margin-left: 2px; */
     margin-bottom: 10px;
     text-align: center;
-    color: grey;
-    float: left;
-    display: block;
+    color: #777;
+    float: right;
+    /* display: block; */
 }
 
 .footer {
-    width: 800px;
+    width: 960px;
     height: 20x;
-    border: 10px solid white;
-    background-color: white;
+    /* border: 10px solid white; */
+    background-color: #ebebeb;
     padding: 5px;
     margin-left:25px;
     margin-right: 15%;
     margin-bottom: 10px;
     text-align: center;
-    color: grey;
+    color: #777;
     display: block;
     float: left;
 }
